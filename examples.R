@@ -1,1 +1,5 @@
-ggplot(penguins)
+# load packages
+library(tidyverse)
+
+# print mpg
+mpg
